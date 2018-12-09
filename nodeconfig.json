@@ -1,0 +1,24 @@
+{
+    "capabilities": [
+      {
+        "browserName": "MicrosoftEdge",
+        "platform": "WIN10",
+        "maxInstances": 1
+      },
+      {
+        "browserName": "firefox",
+        "platform": "WIN10",
+        "maxInstances": 3
+      },
+      {
+        "browserName": "chrome",
+        "platform": "WIN10",
+        "maxInstances": 3
+      },
+      {
+        "browserName": "internet explorer",
+        "platform": "WIN10",
+        "maxInstances": 1
+      }
+    ]
+  }
